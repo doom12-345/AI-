@@ -216,7 +216,7 @@ AI抖音游戏情绪文案生成器/
 ├── 启动文案生成器.bat        # 源码模式启动器（自动探测本机 Python，GBK 编码）
 ├── config.example.json     # 配置模板（复制成 config.json 后填自己的 Key）
 ├── 打包说明.txt             # 重新打包的步骤与产物对比
-├── .gitignore
+├── 文案说明.txt             # 改版前后文案说明
 └── README.md
 ```
 
